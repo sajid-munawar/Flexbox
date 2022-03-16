@@ -26,5 +26,5 @@
 border:10px solid mistyrose;
 align-items: center;
 min-height: 100vh;
-flex-direction: column;
+/* flex-direction: column; */
 }
