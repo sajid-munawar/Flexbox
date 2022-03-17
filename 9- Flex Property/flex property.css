@@ -31,5 +31,5 @@
 /* Align self overwrite the parent rules */
 .box3{
   /* box 5 has 5 times size */
-  flex: 5;
+  flex:5;
 }
