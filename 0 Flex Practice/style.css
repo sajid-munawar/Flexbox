@@ -4,20 +4,21 @@ section{
     display: flex;
     background-color: aqua;
     width: 100%;
+    font-size: 5px;
     /* min-height: 100vh; */
     flex-direction: column;
     min-height: 100vh;    
+    justify-content: space-around;
 }
 
 section div{
-    justify-content: space-between;
     width: 30%;
     padding: 20px;
     border: 1px solid black;
     /* display: flex; */
-    flex: 1;  
+    /* flex: 1;   */
 }
 
 .box1 {
-    flex: 3;
+    /* flex: 3; */
 }
